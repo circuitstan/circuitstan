@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @circuitstan
 - 👀 I’m interested in taking apart and understanding how different systems work, whether it be computers, websites, cars or anything on two wheels.
-- 🌱 I’m currently learning it systems development at Tallinn University of Technology.
+- 🌱 I’m currently learning IT systems development at Tallinn University of Technology.
 - 💞️ I’m looking to collaborate on open source projects my level of skill could tackle.
 - 📫 You can reach me on hello@stenvder.dev
