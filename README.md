@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @circuitstan
 - 👀 I’m interested in taking apart and understanding how different systems work, whether it be computers, websites, cars or anything on two wheels. No preference yet on front or back-end development, but have more experience with front-end so far.
 - 🌱 I’m currently learning IT systems development at Tallinn University of Technology.
-- 💞️ I’m looking to collaborate on open source projects my level of skill could tackle.
+- 💞️ I’m open to collaborate on interesting projects that could use a helpful hand of a junior dev.
 - 📫 You can reach me on hello@stenvder.dev
